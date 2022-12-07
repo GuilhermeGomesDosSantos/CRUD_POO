@@ -1,0 +1,5 @@
+create table Info_Entregador (
+nome	char(100),
+idade	int,
+CNH	int
+);

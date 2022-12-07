@@ -1,0 +1,6 @@
+create table Info_Cliente (
+nome	char(100),
+idade	int,
+apelido	char(100),
+instagram	char(100)
+);
